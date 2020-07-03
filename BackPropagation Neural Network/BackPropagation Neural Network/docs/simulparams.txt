@@ -1,0 +1,7 @@
+all 1000
+teach 600
+tol 0,0006
+input file_u.txt
+output saved.txt
+eta 0,333
+hidden 16

@@ -1,0 +1,27 @@
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe.config
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.pdb
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.exe
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.pdb
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe.config
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.pdb
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.exe
+\\Mac\Home\Desktop\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.pdb
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.exe
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.pdb
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe.config
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe
+\\Mac\Home\Desktop\BackPropagation Neural Network másolata\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.pdb
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe.config
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.exe
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\bin\Debug\BackPropagation Neural Network.pdb
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csprojAssemblyReference.cache
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.csproj.CoreCompileInputs.cache
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.exe
+C:\Users\mskyu\Desktop\2019_Summer_Projects\Neural networks\BackPropagation Neural Network\BackPropagation Neural Network\obj\Debug\BackPropagation Neural Network.pdb
